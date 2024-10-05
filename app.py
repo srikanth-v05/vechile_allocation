@@ -16,7 +16,7 @@ if not os.path.exists('static/vehicle_maps'):
     os.makedirs('static/vehicle_maps')
 
 # Google Maps API Key
-API_KEY = 'AIzaSyAZUGoqEFEKNUM30vpCm4Qs1pZkeacFVsA'  # Replace with your actual API key
+API_KEY = 'yoir_api_key' # Replace with your actual API key
 gmaps = googlemaps.Client(key=API_KEY)
 
 # Function to get coordinates for a district using Google Maps API
