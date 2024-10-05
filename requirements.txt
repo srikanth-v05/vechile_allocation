@@ -1,0 +1,9 @@
+Flask
+pandas
+astropy
+requests
+geopy
+googlemaps
+folium
+polyline
+gunicorn
