@@ -1,4 +1,3 @@
-'AIzaSyAZUGoqEFEKNUM30vpCm4Qs1pZkeacFVsA' 
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import ast
